@@ -7,4 +7,4 @@
 4 | 4/2/24 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |  Hard | [Java](./Minimum_Window_Substring.java) | February |
 5 | 5/2/24 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |  Easy | [Java](./first_unique_character_in_a_string.java) | February |
 6 | 6/2/24 | [Group_Anagrams](https://leetcode.com/problems/group-anagrams/) |  Medium | [Java](./Group_Anagrams.java) | February |
-7 | 6/2/24 | [Sort Characters By Frequency](https://leetcode.com/problems/sort_characters_by_frequency/) |  Medium | [Java](./Sort_Characters_By_Frequency.java) | February |
+7 | 6/2/24 | [Sort Characters By Frequency](https://leetcode.com/problems//sort-characters-by-frequency/) |  Medium | [Java](./Sort_Characters_By_Frequency.java) | February |
