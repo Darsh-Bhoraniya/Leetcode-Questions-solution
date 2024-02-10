@@ -10,3 +10,4 @@
 7 | 7/2/24 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) |  Medium | [Java](./Sort_Characters_By_Frequency.java) | February |
 8 | 8/2/24 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) |  Medium | [Java](./Perfects_Squares.java) | February |
 9 | 9/2/24 | [Largest Divisible Subset](https://leetcode.com/largest-divisible-subset) |  Medium | [Java](./largest_divisible_subset.java) | February |
+10 | 10/2/24 | [Palindromic Substrings](https://leetcode.com/palindromic-substrings) |  Medium | [Java](./palindromic_substrings.java) | February |
