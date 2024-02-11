@@ -11,3 +11,4 @@
 8 | 8/2/24 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) |  Medium | [Java](./Perfects_Squares.java) | February |
 9 | 9/2/24 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) |  Medium | [Java](./largest_divisible_subset.java) | February |
 10 | 10/2/24 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |  Medium | [Java](./palindromic_substrings.java) | February |
+11 | 11/2/24 | [](https://leetcode.com/problemscherry-pickup-ii/) |  Hard | [Java](./Cherry_Pickup_II.java) | February |
