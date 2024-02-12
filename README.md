@@ -12,4 +12,4 @@
 9 | 9/2/24 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) |  Medium | [Java](./largest_divisible_subset.java) | February |
 10 | 10/2/24 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |  Medium | [Java](./palindromic_substrings.java) | February |
 11 | 11/2/24 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) |  Hard | [Java](./Cherry_Pickup_II.java) | February |
-11 | 11/2/24 | [Majority Element](https://leetcode.com/problem/majority-element/) |  Easy | [Java](./Majority_Element.java) | February |
+12 | 12/2/24 | [Majority Element](https://leetcode.com/problems/majority-element/) |  Easy | [Java](./Majority_Element.java) | February |
