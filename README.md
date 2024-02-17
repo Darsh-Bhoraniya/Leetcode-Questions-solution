@@ -17,3 +17,4 @@
 14 | 14/2/24 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |  Medium | [Java](./rearrange_array_elements_by_sign.java) | February |
 15 | 15/2/24 | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) |  Medium | [Java](./find_polygon_with_the_largest_perimeter.java) | February |
 16 | 16/2/24 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  Medium | [Java](./least_number_of_unique_integers_after_k_removals.java) | February |
+17 | 17/2/24 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) |  Medium | [Java](./furthest_building_you_can_reach.java) | February |
