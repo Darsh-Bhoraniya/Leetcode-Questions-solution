@@ -19,3 +19,5 @@
 16 | 16/2/24 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  Medium | [Java](./least_number_of_unique_integers_after_k_removals.java) | February |
 17 | 17/2/24 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) |  Medium | [Java](./furthest_building_you_can_reach.java) | February |
 18 | 18/2/24 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) |  Hard | [Java](./meeting_rooms_iii.java) | February |
+19 | 19/02/24 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Java](./Power_of_Two.java) | February |
+20 | 20/02/24 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Java](./Missing_Number.java) | February | 
