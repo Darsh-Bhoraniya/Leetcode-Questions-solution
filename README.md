@@ -21,3 +21,4 @@
 18 | 18/2/24 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) |  Hard | [Java](./meeting_rooms_iii.java) | February |
 19 | 19/02/24 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Java](./Power_of_Two.java) | February |
 20 | 20/02/24 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Java](./Missing_Number.java) | February | 
+21 | 21/02/24 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Easy | [Java](./Bitwise_and_of_numbers_range.java) | February | 
