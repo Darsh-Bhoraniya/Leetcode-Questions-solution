@@ -24,3 +24,4 @@
 21 | 21/02/24 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Easy | [Java](./Bitwise_and_of_numbers_range.java) | February | 
 22 | 22/02/24 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Java](./Find_the_Town_Judge.java) | February | 
 23 | 23/02/24 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | [Java](./Cheapest_Flights_Within_K_Stops.java) | February |
+24 | 24/02/24 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | Hard | [Java](./Find_All_People_With_Secret.java) | February |
