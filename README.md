@@ -29,4 +29,4 @@
 26 | 26/02/24 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Java](./Same_Tree.java) | February |
 27 | 27/02/24 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | [Java](./Diameter_of_Binary_Tree.java) | February |
 28 | 28/02/24 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | Medium | [Java](./Find_Bottom_Left_Tree_Value.java) | February |
-28 | 28/02/24 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | Medium | [Java](./Find_Bottom_Left_Tree_Value.java) | February |
+28 | 28/02/24 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | Medium | [Java](./Even_Odd_Tree.java) | February |
