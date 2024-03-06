@@ -35,4 +35,4 @@
 32 | 03/03/24 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | [Java](./March/Remove_Nth_Node_From_End_of_List.java) | March |
 33 | 04/03/24 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | Medium | [Java](./March/Bag_of_Tokens.java) | March |
 34 | 05/03/24 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) | Medium | [Java](./March/Minimum_Length_of_String_After_Deleting_Similar_Ends.java) | March |
-35 | 06/03/24 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Medium | [Java](./March/Linked_List_Cycle.java) | March |
+35 | 06/03/24 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | [Java](./March/Linked_List_Cycle.java) | March |
