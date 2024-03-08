@@ -37,3 +37,4 @@
 34 | 05/03/24 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) | Medium | [Java](./March/Minimum_Length_of_String_After_Deleting_Similar_Ends.java) | March |
 35 | 06/03/24 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | [Java](./March/Linked_List_Cycle.java) | March |
 36 | 07/03/24 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Java](./March/Middle_of_the_Linked_List.java) | March |
+37 | 08/03/24 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)| Easy | [Java](./March/Count_Elements_With_Maximum_Frequency.java) | March |
