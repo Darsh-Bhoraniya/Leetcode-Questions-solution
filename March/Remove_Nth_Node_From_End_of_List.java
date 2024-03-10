@@ -1,4 +1,6 @@
 public class Remove_Nth_Node_From_End_of_List {
+     public ListNode Removenth(ListNode head, int n){
+
      // Length for given List
      int len = 0;
      ListNode temp = head;
@@ -26,4 +28,5 @@ public class Remove_Nth_Node_From_End_of_List {
          node.next = node.next.next;
 
      return head;
+    }
 }
