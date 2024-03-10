@@ -39,3 +39,4 @@
 36 | 07/03/24 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [Java](./March/Middle_of_the_Linked_List.java) | March |
 37 | 08/03/24 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)| Easy | [Java](./March/Count_Elements_With_Maximum_Frequency.java) | March |
 38 | 09/03/24 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value)| Easy | [Java](./March/Minimum_Common_Value.java) | March |
+39 | 10/03/24 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)| Easy | [Java](./March/Intersection_of_Two_Arrays.java) | March |
