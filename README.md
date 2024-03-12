@@ -41,3 +41,4 @@
 38 | 09/03/24 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value)| Easy | [Java](./March/Minimum_Common_Value.java) | March |
 39 | 10/03/24 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)| Easy | [Java](./March/Intersection_of_Two_Arrays.java) | March |
 40 | 11/03/24 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string)| Medium | [Java](./March/Custom_Sort_String.java) | March |
+41 | 12/03/24 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)| Medium | [Java](./March/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.java) | March |
