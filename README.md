@@ -47,4 +47,4 @@
 44 | 15/03/24 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)| Medium | [Java](./March/Product_of_Array_Except_Self.java) | March |
 45 | 16/03/24 | [Contiguous Array](https://leetcode.com/problems/contiguous-array)| Medium | [Java](./March/Contiguous_Array.java) | March |
 46 | 17/03/24 | [Insert Interval](https://leetcode.com/problems/insert-interval)| Medium | [Java](./March/Insert_Interval.java) | March |
-47 | 18/08/24 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)| Medium | [Java](.March/FindMinArrowShots.java) | March |
+47 | 18/08/24 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)| Medium | [Java](./March/FindMinArrowShots.java) | March |
