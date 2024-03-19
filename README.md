@@ -48,3 +48,4 @@
 45 | 16/03/24 | [Contiguous Array](https://leetcode.com/problems/contiguous-array)| Medium | [Java](./March/Contiguous_Array.java) | March |
 46 | 17/03/24 | [Insert Interval](https://leetcode.com/problems/insert-interval)| Medium | [Java](./March/Insert_Interval.java) | March |
 47 | 18/08/24 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)| Medium | [Java](./March/FindMinArrowShots.java) | March |
+47 | 18/08/24 | [Task Scheduler](https://leetcode.com/problems/task-scheduler)| Medium | [Java](./March/Task_Scheduler.java) | March |
