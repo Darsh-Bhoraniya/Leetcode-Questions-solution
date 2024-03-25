@@ -54,3 +54,4 @@
 51 | 22/03/24 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| Easy | [Java](./March/Palindrome_Linked_List.java) | March |
 52 | 23/03/24 | [Reorder List](https://leetcode.com/problems/reorder-list/)| Medium | [Java](./March/Reorder_List.java) | March |
 53 | 24/03/24 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| Medium | [Java](./March/Find_the_Duplicate_Number.java) | March |
+54 | 25/03/24 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)| Medium | [Java](./March/Find_All_Duplicates_in_an_Array.java) | March |
