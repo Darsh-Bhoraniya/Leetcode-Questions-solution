@@ -16,6 +16,7 @@ public class Maximum_Odd_Binary_Number {
         StringBuilder res = new StringBuilder();
 
         if(count >= 1){
+            
             count--;
             for(int i = 0; i < len - 1; i++) {
                 if(i < count){
