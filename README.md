@@ -62,3 +62,4 @@
 59 | 30/03/24 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers)| Hard | [Java](./March/Subarrays_with_K_Different_Integers.java) | March |
 60 | 31/03/24 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds)| Hard | [Java](./March/Count_Subarrays_With_Fixed_Bounds.java) | March |
 61 | 01/04/24 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)| Easy | [Java](./April/Length_of_Last_Word.java) | April |
+62 | 02/04/24 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)| Easy | [Java](./April/Isomorphic_Strings.java) | April |
