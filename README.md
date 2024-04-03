@@ -63,3 +63,4 @@
 60 | 31/03/24 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds)| Hard | [Java](./March/Count_Subarrays_With_Fixed_Bounds.java) | March |
 61 | 01/04/24 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)| Easy | [Java](./April/Length_of_Last_Word.java) | April |
 62 | 02/04/24 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)| Easy | [Java](./April/Isomorphic_Strings.java) | April |
+63 | 03/04/24 | [Word Search](https://leetcode.com/problems/word-search)| Medium | [Java](./April/Word_Search.java) | April |
