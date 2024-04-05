@@ -64,4 +64,5 @@
 61 | 01/04/24 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)| Easy | [Java](./April/Length_of_Last_Word.java) | April |
 62 | 02/04/24 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)| Easy | [Java](./April/Isomorphic_Strings.java) | April |
 63 | 03/04/24 | [Word Search](https://leetcode.com/problems/word-search)| Medium | [Java](./April/Word_Search.java) | April |
-63 | 04/04/24 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)| Easy | [Java](./April/Maximum_Nesting_Depth_of_the_Parentheses.java) | April |
+64 | 04/04/24 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)| Easy | [Java](./April/Maximum_Nesting_Depth_of_the_Parentheses.java) | April |
+65 | 05/04/24 | [Make The String Great](https://leetcode.com/problems/make-the-string-great)| Easy | [Java](./April/Make_The_String_Great.java) | April |
