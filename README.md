@@ -66,3 +66,4 @@
 63 | 03/04/24 | [Word Search](https://leetcode.com/problems/word-search)| Medium | [Java](./April/Word_Search.java) | April |
 64 | 04/04/24 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)| Easy | [Java](./April/Maximum_Nesting_Depth_of_the_Parentheses.java) | April |
 65 | 05/04/24 | [Make The String Great](https://leetcode.com/problems/make-the-string-great)| Easy | [Java](./April/Make_The_String_Great.java) | April |
+66 | 06/04/24 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)| Medium | [Java](./April/Minimum_Remove_to_Make_Valid_Parentheses.java) | April |
