@@ -67,3 +67,4 @@
 64 | 04/04/24 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)| Easy | [Java](./April/Maximum_Nesting_Depth_of_the_Parentheses.java) | April |
 65 | 05/04/24 | [Make The String Great](https://leetcode.com/problems/make-the-string-great)| Easy | [Java](./April/Make_The_String_Great.java) | April |
 66 | 06/04/24 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)| Medium | [Java](./April/Minimum_Remove_to_Make_Valid_Parentheses.java) | April |
+67 | 07/04/24 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)| Medium | [Java](./April/Valid_Parenthesis_String.java) | April |
