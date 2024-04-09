@@ -69,3 +69,4 @@
 66 | 06/04/24 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)| Medium | [Java](./April/Minimum_Remove_to_Make_Valid_Parentheses.java) | April |
 67 | 07/04/24 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)| Medium | [Java](./April/Valid_Parenthesis_String.java) | April |
 68 | 08/04/24 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)| Easy | [Java](./April/Number_of_Students_Unable_to_Eat_Lunch.java) | April |
+69 | 09/04/24 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)| Easy | [Java](./April/Time_Needed_to_Buy_Tickets.java) | April |
