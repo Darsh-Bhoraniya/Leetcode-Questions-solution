@@ -70,3 +70,4 @@
 67 | 07/04/24 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)| Medium | [Java](./April/Valid_Parenthesis_String.java) | April |
 68 | 08/04/24 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)| Easy | [Java](./April/Number_of_Students_Unable_to_Eat_Lunch.java) | April |
 69 | 09/04/24 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)| Easy | [Java](./April/Time_Needed_to_Buy_Tickets.java) | April |
+70 | 10/04/24 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| Medium | [Java](./April/Reveal_Cards_In_Increasing_Order.java) | April |
