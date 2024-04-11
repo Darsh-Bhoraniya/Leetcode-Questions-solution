@@ -71,3 +71,4 @@
 68 | 08/04/24 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)| Easy | [Java](./April/Number_of_Students_Unable_to_Eat_Lunch.java) | April |
 69 | 09/04/24 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)| Easy | [Java](./April/Time_Needed_to_Buy_Tickets.java) | April |
 70 | 10/04/24 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| Medium | [Java](./April/Reveal_Cards_In_Increasing_Order.java) | April |
+71 | 11/04/24 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)| Medium | [Java](./April/Remove_K_Digits.java) | April |
