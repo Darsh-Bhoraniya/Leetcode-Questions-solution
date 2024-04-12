@@ -72,3 +72,4 @@
 69 | 09/04/24 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)| Easy | [Java](./April/Time_Needed_to_Buy_Tickets.java) | April |
 70 | 10/04/24 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| Medium | [Java](./April/Reveal_Cards_In_Increasing_Order.java) | April |
 71 | 11/04/24 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)| Medium | [Java](./April/Remove_K_Digits.java) | April |
+72 | 12/04/24 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)| Hard | [Java](./April/Trapping_Rain_Water.java) | April |
