@@ -74,3 +74,4 @@
 71 | 11/04/24 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)| Medium | [Java](./April/Remove_K_Digits.java) | April |
 72 | 12/04/24 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)| Hard | [Java](./April/Trapping_Rain_Water.java) | April |
 73 | 13/04/24 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)| Hard | [Java](./April/Maximal_Rectangle.java) | April |
+74 | 14/04/24 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)| Easy | [Java](./April/Sum_of_Left_Leaves.java) | April |
