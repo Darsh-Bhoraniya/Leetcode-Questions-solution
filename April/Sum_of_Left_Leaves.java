@@ -15,6 +15,9 @@
  */
 class Sum_of_Left_Leaves {
     public int sumOfLeftLeaves(TreeNode root) {
+        if(root==null){
+        return 0;
+        }
         int sum = 0;
 
         if (root.left != null) {
