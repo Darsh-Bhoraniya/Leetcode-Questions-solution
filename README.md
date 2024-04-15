@@ -75,4 +75,4 @@
 72 | 12/04/24 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)| Hard | [Java](./April/Trapping_Rain_Water.java) | April |
 73 | 13/04/24 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)| Hard | [Java](./April/Maximal_Rectangle.java) | April |
 74 | 14/04/24 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)| Easy | [Java](./April/Sum_of_Left_Leaves.java) | April |
-75 | 15/04/24 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)| Medium | [Java](./April/Sum_of_Left_Leaves.java) | April |
+75 | 15/04/24 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)| Medium | [Java](./April/Sum_Root_to_Leaf_Numbers.java) | April |
