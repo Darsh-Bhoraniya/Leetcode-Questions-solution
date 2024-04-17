@@ -77,3 +77,4 @@
 74 | 14/04/24 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)| Easy | [Java](./April/Sum_of_Left_Leaves.java) | April |
 75 | 15/04/24 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)| Medium | [Java](./April/Sum_Root_to_Leaf_Numbers.java) | April |
 76 | 16/04/24 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree)| Medium | [Java](./April/Add_One_Row_to_Tree.java) | April |
+77 | 17/04/24 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)| Medium | [Java](./April/Smallest_String_Starting_From_Leaf.java) | April |
