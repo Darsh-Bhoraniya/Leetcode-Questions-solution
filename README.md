@@ -80,3 +80,4 @@
 77 | 17/04/24 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)| Medium | [Java](./April/Smallest_String_Starting_From_Leaf.java) | April |
 78 | 18/04/24 | [Island Perimeter](https://leetcode.com/problems/island-perimeter)| Easy | [Java](./April/Island_Perimeter.java) | April |
 79 | 19/04/24 | [Number of Islands](https://leetcode.com/problems/number-of-islands)| Medium | [Java](./April/Number_of_Islands.java) | April |
+80 | 20/04/24 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland)| Medium | [Java](./April/Find_All_Groups_of_Farmland.java) | April |
