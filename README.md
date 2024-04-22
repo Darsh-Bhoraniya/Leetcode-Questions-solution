@@ -82,3 +82,4 @@
 79 | 19/04/24 | [Number of Islands](https://leetcode.com/problems/number-of-islands)| Medium | [Java](./April/Number_of_Islands.java) | April |
 80 | 20/04/24 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland)| Medium | [Java](./April/Find_All_Groups_of_Farmland.java) | April |
 81 | 21/04/24 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)| Easy | [Java](./April/Find_if_Path_Exists_in_Graph.java) | April |
+82 | 22/04/24 | [Open the Lock](https://leetcode.com/problems/open-the-lock)| Medium | [Java](./April/Open_the_Lock.java) | April |
