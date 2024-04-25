@@ -85,3 +85,4 @@
 82 | 22/04/24 | [Open the Lock](https://leetcode.com/problems/open-the-lock)| Medium | [Java](./April/Open_the_Lock.java) | April |
 83 | 23/04/24 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)| Medium | [Java](./April/Minimum_Height_Trees.java) | April |
 84 | 24/04/24 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)| Easy | [Java](./April/N-th_Tribonacci_Number.java) | April |
+85 | 25/04/24 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)| Medium | [Java](./April/Longest_Ideal_Subsequence.java) | April |
