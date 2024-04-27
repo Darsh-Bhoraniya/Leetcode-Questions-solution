@@ -87,3 +87,4 @@
 84 | 24/04/24 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)| Easy | [Java](./April/N-th_Tribonacci_Number.java) | April |
 85 | 25/04/24 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)| Medium | [Java](./April/Longest_Ideal_Subsequence.java) | April |
 86 | 26/04/24 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii)| Hard | [Java](./April/Minimum_Falling_Path_Sum_II.java) | April |
+87 | 27/04/24 | [Freedom Trail](https://leetcode.com/problems/freedom-trail)| Hard | [Java](./April/Freedom_Trail.java) | April |
