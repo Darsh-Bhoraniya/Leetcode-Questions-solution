@@ -89,3 +89,4 @@
 86 | 26/04/24 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii)| Hard | [Java](./April/Minimum_Falling_Path_Sum_II.java) | April |
 87 | 27/04/24 | [Freedom Trail](https://leetcode.com/problems/freedom-trail)| Hard | [Java](./April/Freedom_Trail.java) | April |
 89 | 28/04/24 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)| Hard | [Java](./April/Sum_of_Distances_in_Tree.java) | April |
+90 | 29/04/24 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k)| Medium | [Java](./April/Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.java) | April |
