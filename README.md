@@ -91,3 +91,4 @@
 89 | 28/04/24 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)| Hard | [Java](./April/Sum_of_Distances_in_Tree.java) | April |
 90 | 29/04/24 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k)| Medium | [Java](./April/Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.java) | April |
 91 | 30/04/24 | [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings)| Medium | [Java](./April/Number_of_Wonderful_Substrings.java) | April |
+92 | 01/05/24 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)| Easy | [Java](./May/Reverse_Prefix_of_Word.java) | May |
