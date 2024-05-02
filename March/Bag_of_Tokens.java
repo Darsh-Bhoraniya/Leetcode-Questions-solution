@@ -16,8 +16,7 @@ public class Bag_of_okens {
                 i--;
             }
             max_score = Math.max(max_score, curr_score);
-        }
-        
+        }  
         return max_score;
     }
 }
