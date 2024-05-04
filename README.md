@@ -94,3 +94,4 @@
 92 | 01/05/24 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)| Easy | [Java](./May/Reverse_Prefix_of_Word.java) | May |
 93 | 02/05/24 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative)| Easy | [Java](./May/Largest_Positive_Integer_That_Exists_With_Its_Negative.java) | May |
 94 | 03/05/24 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | Medium | [Java](./May/Compare_Version_Numbers.java) | May | 
+95 | 04/05/24 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | Medium | [Java](./May/Boats_to_Save_People.java) | May | 
