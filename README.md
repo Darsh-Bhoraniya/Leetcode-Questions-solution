@@ -98,3 +98,4 @@
 96 | 05/05/24 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | [Java](./May/Delete_Node_in_a_Linked_List.java) | May | 
 97 | 06/05/24 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list) | Medium | [Java](./May/Remove_Nodes_From_Linked_List.java) | May | 
 98 | 07/05/24 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) | Medium | [Java](./May/Double_a_Number_Represented_as_a_Linked_List.java) | May |
+99 | 08/05/24 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | [Java](./May/Relative_Ranks.java) | May |
