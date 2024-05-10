@@ -100,3 +100,4 @@
 98 | 07/05/24 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) | Medium | [Java](./May/Double_a_Number_Represented_as_a_Linked_List.java) | May |
 99 | 08/05/24 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | [Java](./May/Relative_Ranks.java) | May |
 100 | 09/05/24 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children) | Medium | [Java](./May/Maximize_Happiness_of_Selected_Children.java) | May |
+101 | 10/05/24 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) | Medium | [Java](./May/K_th_Smallest_Prime_Fraction.java) | May |
