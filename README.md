@@ -101,3 +101,4 @@
 99 | 08/05/24 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | [Java](./May/Relative_Ranks.java) | May |
 100 | 09/05/24 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children) | Medium | [Java](./May/Maximize_Happiness_of_Selected_Children.java) | May |
 101 | 10/05/24 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) | Medium | [Java](./May/K_th_Smallest_Prime_Fraction.java) | May |
+102 | 11/05/24 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers) | Hard | [Java](./May/Minimum_Cost_to_Hire_K_Workers.java) | May |
