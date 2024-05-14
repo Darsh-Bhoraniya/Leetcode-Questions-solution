@@ -102,5 +102,6 @@
 100 | 09/05/24 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children) | Medium | [Java](./May/Maximize_Happiness_of_Selected_Children.java) | May |
 101 | 10/05/24 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) | Medium | [Java](./May/K_th_Smallest_Prime_Fraction.java) | May |
 102 | 11/05/24 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers) | Hard | [Java](./May/Minimum_Cost_to_Hire_K_Workers.java) | May |
-103 | 12/05/24 |
-104 | 13/05/24 
+103 | 12/05/24 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | [Java](./May/Largest_Local_Values_in_a_Matrix.java) | May |
+104 | 13/05/24 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix) | Medium | [Java](./May/Score_After_Flipping_Matrix.java) | May |
+105 | 14/05/24 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | Medium | [Java](./May/Path_with_Maximum_Gold.java) | May |
