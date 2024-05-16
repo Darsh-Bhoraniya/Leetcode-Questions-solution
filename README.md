@@ -106,3 +106,4 @@
 104 | 13/05/24 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix) | Medium | [Java](./May/Score_After_Flipping_Matrix.java) | May |
 105 | 14/05/24 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | Medium | [Java](./May/Path_with_Maximum_Gold.java) | May |
 106 | 15/05/24 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | Medium | [Java](./May/Find_the_Safest_Path_in_a_Grid.java) | May |
+105 | 16/05/24 |
