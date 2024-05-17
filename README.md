@@ -107,3 +107,4 @@
 105 | 14/05/24 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | Medium | [Java](./May/Path_with_Maximum_Gold.java) | May |
 106 | 15/05/24 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | Medium | [Java](./May/Find_the_Safest_Path_in_a_Grid.java) | May |
 105 | 16/05/24 |  | Medium |[Java]
+106 | 17/05/24 |   | Medium |
