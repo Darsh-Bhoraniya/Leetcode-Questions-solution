@@ -108,3 +108,4 @@
 106 | 15/05/24 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | Medium | [Java](./May/Find_the_Safest_Path_in_a_Grid.java) | May |
 105 | 16/05/24 |  | Medium |[Java]
 106 | 17/05/24 |   | Medium |
+107 | 18/05/24 
