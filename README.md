@@ -106,8 +106,8 @@
 104 | 13/05/24 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix) | Medium | [Java](./May/Score_After_Flipping_Matrix.java) | May |
 105 | 14/05/24 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | Medium | [Java](./May/Path_with_Maximum_Gold.java) | May |
 106 | 15/05/24 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | Medium | [Java](./May/Find_the_Safest_Path_in_a_Grid.java) | May |
-105 | 16/05/24 |  | Medium |[Java]
-106 | 17/05/24 |   | Medium |
-107 | 18/05/24 
-108 | 19/05/24 |
-109 | 20/05/24| 
+105 | 16/05/24 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) | Medium | [Java](.May/Evaluate_Boolean_Binary_Tree.java) | May |
+106 | 17/05/24 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) | Medium |[Java](./May/Delete_Leaves_With_a_Given_Value.java) | May |
+107 | 18/05/24 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) | Medium | [Java](./May/Distribute_Coins_in_Binary_Tree.java) | May |
+108 | 19/05/24 | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) | Hard | [Java](./May/Find_the_Maximum_Sum_of_Node_Values.java) | May |
+109 | 20/05/24 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | Easy | [Java](./May/Sum_of_All_Subset_XOR_Totals.java) | May |
