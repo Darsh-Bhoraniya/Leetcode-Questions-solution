@@ -112,3 +112,4 @@
 108 | 19/05/24 | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) | Hard | [Java](./May/Find_the_Maximum_Sum_of_Node_Values.java) | May |
 109 | 20/05/24 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | Easy | [Java](./May/Sum_of_All_Subset_XOR_Totals.java) | May |
 110 | 21/05/24 | [Subsets](https://leetcode.com/problems/subsets) | Medium | [Java](./May/Subsets.java) | May |
+111 | 22/05/24 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | Medium | [Java](./May/Palindrome_Partitioning.java) | May |
