@@ -113,3 +113,4 @@
 109 | 20/05/24 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | Easy | [Java](./May/Sum_of_All_Subset_XOR_Totals.java) | May |
 110 | 21/05/24 | [Subsets](https://leetcode.com/problems/subsets) | Medium | [Java](./May/Subsets.java) | May |
 111 | 22/05/24 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | Medium | [Java](./May/Palindrome_Partitioning.java) | May |
+112 | 23/05/24 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets) | Medium | [Java](./May/The_Number_of_Beautiful_Subsets.java) | May |
