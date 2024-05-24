@@ -114,3 +114,4 @@
 110 | 21/05/24 | [Subsets](https://leetcode.com/problems/subsets) | Medium | [Java](./May/Subsets.java) | May |
 111 | 22/05/24 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | Medium | [Java](./May/Palindrome_Partitioning.java) | May |
 112 | 23/05/24 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets) | Medium | [Java](./May/The_Number_of_Beautiful_Subsets.java) | May |
+113 | 24/05/24 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters) | Hard | [Java](./May/Maximum_Score_Words_Formed_by_Letters.java) | May |
