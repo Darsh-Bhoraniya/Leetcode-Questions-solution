@@ -118,3 +118,4 @@
 114 | 25/05/24 | [Word Break II](https://leetcode.com/problems/word-break-ii) | Hard | [Java](./May/Word_Break_II.java) | May |
 115 | 26/05/24 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii) | Hard | [Java](./May/Student_Attendance_Record_II.java) | May |
 116 | 27/05/24 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) | Easy | [Java](./May/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.java) | May |
+117 | 28/05/24 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | Medium | [Java](./May/Get_Equal_Substrings_Within_Budget.java  ) | May | 
