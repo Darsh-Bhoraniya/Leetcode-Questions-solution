@@ -19,7 +19,6 @@ public class Single_Number_III {
                   }
               }
           }
-  
           return result;
       }
 }
