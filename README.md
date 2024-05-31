@@ -121,3 +121,4 @@
 117 | 28/05/24 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | Medium | [Java](./May/Get_Equal_Substrings_Within_Budget.java  ) | May | 
 118 | 29/05/24 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | Medium | [Java](./May/Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.java) | May | 
 119 | 30/05/24 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xo) | Medium | [Java](./May/Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.java) | May |
+120 | 31/05/24 | [Single Number III](https://leetcode.com/problems/single-number-iii) | Medium | [Java](./May/Single_Number_III.java) | May |
