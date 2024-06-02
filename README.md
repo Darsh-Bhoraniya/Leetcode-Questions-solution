@@ -123,3 +123,4 @@
 119 | 30/05/24 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xo) | Medium | [Java](./May/Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.java) | May |
 120 | 31/05/24 | [Single Number III](https://leetcode.com/problems/single-number-iii) | Medium | [Java](./May/Single_Number_III.java) | May |
 121 | 01/06/24 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | [Java](./June/Score_of_a_String.java) | June |
+122 | 02/06/24 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Java](./June/Reverse_String.java) | June |
