@@ -119,9 +119,10 @@
 115 | 26/05/24 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii) | Hard | [Java](./May/Student_Attendance_Record_II.java) | May |
 116 | 27/05/24 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) | Easy | [Java](./May/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.java) | May |
 117 | 28/05/24 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | Medium | [Java](./May/Get_Equal_Substrings_Within_Budget.java  ) | May | 
-118 | 29/05/24 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | Medium | [Java](./May/Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.java) | May | 
+118 | 29/05/24 | [Number of Steps to Reduce a Number in Binary Representahttps://leetcode.com/problems/longest-palindrometion to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | Medium | [Java](./May/Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.java) | May | 
 119 | 30/05/24 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xo) | Medium | [Java](./May/Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.java) | May |
 120 | 31/05/24 | [Single Number III](https://leetcode.com/problems/single-number-iii) | Medium | [Java](./May/Single_Number_III.java) | May |
 121 | 01/06/24 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | [Java](./June/Score_of_a_String.java) | June |
 122 | 02/06/24 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Java](./June/Reverse_String.java) | June |
 123 | 03/06/24 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence) | Medium | [Java](./June/Append_Characters_to_String_to_Make_Subsequence.java) | June |
+124 | 04/06/24 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | [Java](.June/Longest_Palindrome.java) | June |
