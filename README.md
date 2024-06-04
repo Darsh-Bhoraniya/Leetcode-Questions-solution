@@ -125,4 +125,4 @@
 121 | 01/06/24 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | [Java](./June/Score_of_a_String.java) | June |
 122 | 02/06/24 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Java](./June/Reverse_String.java) | June |
 123 | 03/06/24 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence) | Medium | [Java](./June/Append_Characters_to_String_to_Make_Subsequence.java) | June |
-124 | 04/06/24 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | [Java](.June/Longest_Palindrome.java) | June |
+124 | 04/06/24 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | [Java](./June/Longest_Palindrome.java) | June |
