@@ -128,3 +128,4 @@
 124 | 04/06/24 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | [Java](./June/Longest_Palindrome.java) | June |
 125 | 05/06/24 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | Easy | [Java](./June/Find_Common_Characters.java) | June |
 126 | 06/06/24 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | Medium | [Java](./June/Hand_of_Straights.java) | June | 
+127 | 07/06/24 | [Replace Words](https://leetcode.com/problems/replace-words) | Medium | [Java](./June/Replace_Words.java) | June |
