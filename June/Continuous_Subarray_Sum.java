@@ -1,28 +1,23 @@
 public class Continuous_Subarray_Sum {
     public boolean checkSubarraySum(int[] nums, int k) {
-        int n = nums.length;
-       
-       // Step 1: Iterate Through Starting Points
-       for (int start = 0; start < n - 1; start++) {
-           // Step 2: Expand the Subarray
-           for (int end = start + 1; end < n; end++) {
-               // Step 3: Calculate the Sum
-               int subarraySum = 0;
-               for (int i = start; i <= end; i++) {
-                   subarraySum += nums[i];
-               }
-               
-               // Step 4: Check if the Sum is a Multiple of k
-               if (subarraySum == 0 && k == 0) { // Handling special case where k is 0
-                   return true;
-               }
-               if (k != 0 && subarraySum % k == 0) {
-                   return true;
-               }
-           }
-       }
-       
-       // Step 5: Return the Result
-       return false;
+          Map<Integer, Integer> remaindersFound = new HashMap<>();
+        int currSum = 0;
+        remaindersFound.put(0, -1); // To handle the case when subarray starts from index 0
+
+        for (int i = 0; i < nums.length; i++) {
+            currSum += nums[i];
+            int remainder = currSum % k;
+
+            if (remaindersFound.containsKey(remainder)) {
+                // Check if the length of the subarray is at least 2
+                if (i - remaindersFound.get(remainder) >= 2) {
+                    return true;
+                }
+            } else {
+                remaindersFound.put(remainder, i);
+            }
+        }
+
+        return false;
    }
 }
