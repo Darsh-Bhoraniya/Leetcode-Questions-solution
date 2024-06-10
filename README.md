@@ -131,3 +131,4 @@
 127 | 07/06/24 | [Replace Words](https://leetcode.com/problems/replace-words) | Medium | [Java](./June/Replace_Words.java) | June |
 128 | 08/06/24 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [Java](./June/Continuous_Subarray_Sum.java) | June
 129 | 09/06/24 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | Medium | [Java](./June/Subarray_Sums_Divisible_by_K.java) | June
+130 | 10/06/24 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | [Java](./June/Height_Checker.java) | June
