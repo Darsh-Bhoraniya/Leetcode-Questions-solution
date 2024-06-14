@@ -135,3 +135,4 @@
 131 | 11/06/24 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array) | Easy | [Java](./June/Relative_Sort_Array.java) | June 
 132 | 12/06/24 | [Sort_Colors](https://leetcode.com/problems/sort-colors) | Medium | [Java](./June/Sort_Colors.java) | June
 133 | 13/06/24 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | [Java](./June/Minimum_Number_of_Moves_to_Seat_Everyone.java) | June
+134 | 14/06/24 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | Medium | [Java](./June/Minimum_Increment_to_Make_Array_Unique.java) | June
