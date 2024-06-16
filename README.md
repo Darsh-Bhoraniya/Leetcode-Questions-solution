@@ -137,3 +137,4 @@
 133 | 13/06/24 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | [Java](./June/Minimum_Number_of_Moves_to_Seat_Everyone.java) | June
 134 | 14/06/24 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | Medium | [Java](./June/Minimum_Increment_to_Make_Array_Unique.java) | June
 135 | 15/6/24 | [IPO](https://leetcode.com/problems/ipo) | Hard | [Java](./June/IPO.java) | June
+136 | 16/6/24 | [Patching Array](https://leetcode.com/problems/patching-array) | Hard | [Java](./June/Patching_Array.java) | June
