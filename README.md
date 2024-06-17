@@ -138,3 +138,4 @@
 134 | 14/06/24 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | Medium | [Java](./June/Minimum_Increment_to_Make_Array_Unique.java) | June
 135 | 15/6/24 | [IPO](https://leetcode.com/problems/ipo) | Hard | [Java](./June/IPO.java) | June
 136 | 16/6/24 | [Patching Array](https://leetcode.com/problems/patching-array) | Hard | [Java](./June/Patching_Array.java) | June
+137 | 17/6/24 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) | Medium | [Java](./June/Sum_of_Square_Numbers.java) | June
