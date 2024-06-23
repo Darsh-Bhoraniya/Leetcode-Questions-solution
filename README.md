@@ -144,3 +144,4 @@
 138 | 20/6/24 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls) | Medium |[Java](./June/Magnetic_Force_Between_Two_Balls.java) | June
 139 | 21/6/24 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner) | Medium | [Java](./June/Grumpy_Bookstore_Owner.java) | June 
 140 | 22/6/24 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | Medium | [Java](./June/Count_Number_of_Nice_Subarrays.java) | June
+141 | 23/6/24 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Medium | [Java](./June/Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.java) | June
