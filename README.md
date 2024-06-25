@@ -146,3 +146,4 @@
 140 | 22/6/24 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | Medium | [Java](./June/Count_Number_of_Nice_Subarrays.java) | June
 141 | 23/6/24 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Medium | [Java](./June/Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.java) | June
 142 | 24/6/24 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips) | Medium | [Java](./June/Minimum_Number_of_K_Consecutive_Bit_Flips.java) | June
+143 | 25/6/24 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | Medium | [Java](./June/Binary_Search_Tree_to_Greater_Sum_Tree.java) | June
