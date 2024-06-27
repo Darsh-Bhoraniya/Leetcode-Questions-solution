@@ -148,4 +148,4 @@
 142 | 24/6/24 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips) | Medium | [Java](./June/Minimum_Number_of_K_Consecutive_Bit_Flips.java) | June
 143 | 25/6/24 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | Medium | [Java](./June/Binary_Search_Tree_to_Greater_Sum_Tree.java) | June
 144 | 26/6/24 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | Medium | [Java](./June/Balance_a_Binary_Search_Tree.java) | June
-145 | 27/6/24 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | Medium | [Java](./June/Find_Center_of_Star_Graph.java) | June
+145 | 27/6/24 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | Easy | [Java](./June/Find_Center_of_Star_Graph.java) | June
