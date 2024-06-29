@@ -150,3 +150,4 @@
 144 | 26/6/24 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | Medium | [Java](./June/Balance_a_Binary_Search_Tree.java) | June
 145 | 27/6/24 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | Easy | [Java](./June/Find_Center_of_Star_Graph.java) | June
 146 | 28/6/24 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads) | Medium | [Java](./June/Maximum_Total_Importance_of_Roads.java) | June 
+147 | 29/6/24 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph) | Medium | [Java](./June/All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph.java) | June
