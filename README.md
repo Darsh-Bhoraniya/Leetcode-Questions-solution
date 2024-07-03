@@ -154,3 +154,4 @@
 148 | 30/6/24 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | Hard | [Java](./June/Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.java) | June
 149 | 01/7/24 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | [Java](./July/Three_Consecutive_Odds.java) | July
 150 | 02/7/24 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | [Java](./July/Intersection_of_Two_Arrays_II.java) | July
+151 | 03/7/24 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) | Medium | [Java](./July/Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.java) | July
