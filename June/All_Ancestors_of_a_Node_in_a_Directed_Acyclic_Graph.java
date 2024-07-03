@@ -11,7 +11,6 @@ public class All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph {
         for (int i = 0; i < n; i++) {
             graph.add(new ArrayList<>());
         }
-
         
         for (int[] edge : edges) {
             int from = edge[0];
