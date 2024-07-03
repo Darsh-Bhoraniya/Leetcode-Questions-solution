@@ -153,3 +153,4 @@
 147 | 29/6/24 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph) | Medium | [Java](./June/All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph.java) | June
 148 | 30/6/24 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | Hard | [Java](./June/Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.java) | June
 149 | 01/7/24 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | [Java](./July/Three_Consecutive_Odds.java) | July
+150 | 02/7/24 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | [Java](./July/Intersection_of_Two_Arrays_II.java) | July
