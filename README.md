@@ -158,3 +158,4 @@
 152 | 04/7/24 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium | [Java](./July/Merge_Nodes_in_Between_Zeros.java) | July
 153 | 05/07/24 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | Medium | [Java](./July/Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.java) | July
 154 | 06/07/24 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow) | Easy | [Java](./July/Pass_the_Pillow.java) | July
+155 | 07/07/24 | [Water Bottles](https://leetcode.com/problems/water-bottles) | Easy | [Java](./July/Water_Bottles.java) | July
