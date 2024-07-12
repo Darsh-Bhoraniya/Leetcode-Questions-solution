@@ -163,3 +163,4 @@
 157 | 09/07/24 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time) | Medium | [Java](./July/Average_Waiting_Time.java) | July
 158 | 10/07/24 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | Easy | [Java](./July/Crawler_Log_Folder.java) | July
 159 | 11/07/24 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | Medium [Java](./July/Reverse_Substrings_Between_Each_Pair_of_Parentheses.java) | July
+160 | 12/07/24 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | Medium | [Java](./July/Maximum_Score_From_Removing_Substrings.java) | July
