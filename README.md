@@ -165,3 +165,4 @@
 159 | 11/07/24 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | Medium  | [Java](./July/Reverse_Substrings_Between_Each_Pair_of_Parentheses.java) | July
 160 | 12/07/24 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | Medium | [Java](./July/Maximum_Score_From_Removing_Substrings.java) | July
 161 | 13/07/24 | [Robot Collisions](https://leetcode.com/problems/robot-collisions)  | Hard | [Java](./July/Robot_Collisions.java) | July 
+162 | 14/07/24 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms) | Hard | [Java](./July/Number_of_Atoms.java) | July 
