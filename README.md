@@ -170,3 +170,4 @@
 164 | 16/07/24 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another) | Medium | [Java](./July/Step_By_Step_Directions_From_a_Binary_Tree_Node_to_Another.java) | July
 165 | 17/07/24 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) | Medium | [Java](./July/Delete_Nodes_And_Return_Forest.java) | July
 166 | 18/07/24 | [Number Of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs) | Medium | [Java](./July/Number_Of_Good_Leaf_Nodes_Pairs.java) | July
+167 | 19/07/24 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | [Java](./July/Lucky_Numbers_in_a_Matrix.java) | July
