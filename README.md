@@ -171,3 +171,4 @@
 165 | 17/07/24 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) | Medium | [Java](./July/Delete_Nodes_And_Return_Forest.java) | July
 166 | 18/07/24 | [Number Of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs) | Medium | [Java](./July/Number_Of_Good_Leaf_Nodes_Pairs.java) | July
 167 | 19/07/24 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | [Java](./July/Lucky_Numbers_in_a_Matrix.java) | July
+168 | 20/07/24 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Medium | [Java](./July/Find_Valid_Matrix_Given_Row_and_Column_Sums.java) | July
