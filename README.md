@@ -173,3 +173,4 @@
 167 | 19/07/24 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | [Java](./July/Lucky_Numbers_in_a_Matrix.java) | July
 168 | 20/07/24 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Medium | [Java](./July/Find_Valid_Matrix_Given_Row_and_Column_Sums.java) | July
 169 | 21/07/24 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions) | Hard | [Java](./July/Build_a_Matrix_With_Conditions.java) | July
+170 | 22/07/24 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | [Java](./July/Sort_the_People.java) | July
