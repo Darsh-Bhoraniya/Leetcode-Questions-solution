@@ -174,3 +174,4 @@
 168 | 20/07/24 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Medium | [Java](./July/Find_Valid_Matrix_Given_Row_and_Column_Sums.java) | July
 169 | 21/07/24 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions) | Hard | [Java](./July/Build_a_Matrix_With_Conditions.java) | July
 170 | 22/07/24 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | [Java](./July/Sort_the_People.java) | July
+171 | 23/07/24 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | Easy | [Java](./July/Sort_Array_by_Increasing_Frequency.java) | July 
