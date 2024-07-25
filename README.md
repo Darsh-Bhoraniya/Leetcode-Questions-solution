@@ -176,3 +176,4 @@
 170 | 22/07/24 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | [Java](./July/Sort_the_People.java) | July
 171 | 23/07/24 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | Easy | [Java](./July/Sort_Array_by_Increasing_Frequency.java) | July 
 172 | 24/07/24 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers) | Medium | [Java](./July/Sort_the_Jumbled_Numbers.java) | July 
+173 | 24/07/24 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | [Java](./July/Sort_An_Array.java) | July 
