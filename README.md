@@ -176,7 +176,7 @@
 170 | 22/07/24 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | [Java](./July/Sort_the_People.java) | July
 171 | 23/07/24 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | Easy | [Java](./July/Sort_Array_by_Increasing_Frequency.java) | July 
 172 | 24/07/24 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers) | Medium | [Java](./July/Sort_the_Jumbled_Numbers.java) | July 
-173 | 24/07/24 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | [Java](./July/Sort_An_Array.java) | July 
-174 | 25/07/24 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | Medium | [Java](./July/Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.java) | July
-175 | 26/07/24 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | Medium | [Java](./July/Minimum_Cost_to_Convert_String_I.java) | July
-176 | 27/07/24 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination) | Hard | [Java](./July/Second_Minimum_Time_to_Reach_Destination.java) | July
+173 | 25/07/24 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | [Java](./July/Sort_An_Array.java) | July 
+174 | 26/07/24 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | Medium | [Java](./July/Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.java) | July
+175 | 27/07/24 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | Medium | [Java](./July/Minimum_Cost_to_Convert_String_I.java) | July
+176 | 28/07/24 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination) | Hard | [Java](./July/Second_Minimum_Time_to_Reach_Destination.java) | July
