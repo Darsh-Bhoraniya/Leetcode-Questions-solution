@@ -182,3 +182,4 @@
 176 | 28/07/24 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination) | Hard | [Java](./July/Second_Minimum_Time_to_Reach_Destination.java) | July
 178 | 29/07/24 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) | Medium | [Java](./July/Count_Number_of_Teams.java) | July
 179 | 30/07/24 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced) | Medium | [Java](./July/Minimum_Deletions_to_Make_String_Balanced.java) | July
+180 | 31/07/24 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves) | Medium | [Java](./July/Filling_Bookcase_Shelves.java) | July
