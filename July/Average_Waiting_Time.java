@@ -17,3 +17,4 @@ public class Average_Waiting_Time {
         return totalTime/n;
     }
 }
+
