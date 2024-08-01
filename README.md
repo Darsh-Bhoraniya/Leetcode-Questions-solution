@@ -183,3 +183,4 @@
 178 | 29/07/24 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) | Medium | [Java](./July/Count_Number_of_Teams.java) | July
 179 | 30/07/24 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced) | Medium | [Java](./July/Minimum_Deletions_to_Make_String_Balanced.java) | July
 180 | 31/07/24 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves) | Medium | [Java](./July/Filling_Bookcase_Shelves.java) | July
+181 | 01/08/24 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | Easy | [Java](./August/Number_of_Senior_Citizens.java) | August
