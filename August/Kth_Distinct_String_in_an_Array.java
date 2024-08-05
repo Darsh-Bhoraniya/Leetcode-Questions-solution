@@ -2,10 +2,6 @@
  * Kth_Distinct_String_in_an_Array
  */
 public class Kth_Distinct_String_in_an_Array {
-
-   import java.util.*;
-
-class Solution {
     public String kthDistinct(String[] arr, int k) {
         Map<String, Integer> countMap = new HashMap<>();
         
@@ -30,6 +26,4 @@ class Solution {
         
         return distinctList.get(k - 1);
     }
-}
-
 }
