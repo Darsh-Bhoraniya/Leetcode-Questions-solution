@@ -187,3 +187,4 @@
 182 | 02/08/24 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii) | Medium | [Java](./August/Minimum_Swaps_to_Group_All_1's_Together_II.java) | August
 183 | 03/08/24 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays) | Easy | [Java](./August/Make_Two_Arrays_Equal_by_Reversing_Subarrays.java) | August
 184 | 04/08/24 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | Medium | [Java](./August/Range_Sum_of_Sorted_Subarray_Sums.java) | August
+185 | 05/08/24 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | [Java](./August/Kth_Distinct_String_in_an_Array.java) | August
