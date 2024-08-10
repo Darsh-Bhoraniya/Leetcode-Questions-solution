@@ -192,3 +192,4 @@
 187 | 07/08/24 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words) | Hard | [Java](./August/Integer_to_English_Words.java) | August 
 188 | 08/08/24 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii) | Medium | [Java](./August/Spiral_Matrix_III.java) | August
 189 | 09/08/24 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | Medium | [Java](./August/Magic_Squares_In_Grid.java) | August
+190 | 10/08/24 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes) | Medium | [Java](./August/Regions_Cut_By_Slashes.java) | August
