@@ -196,3 +196,4 @@
 191 | 11/08/24 | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Hard | [Java](./August/MinimumN_umber_of_Days_to_Disconnect_Island.java) | August
 192 | 12/08/24 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [Java](./August/Kth_Largest_Element_in_a_Stream.java) | August
 193 | 13/08/24 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | Medium | [Java](./August/Combination_Sum_II.java) | August
+194 | 14/08/24 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance) | Hard | [Java](./August/Find_K_th_Smallest_Pair_Distance.java) | August
