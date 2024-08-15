@@ -197,3 +197,4 @@
 192 | 12/08/24 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [Java](./August/Kth_Largest_Element_in_a_Stream.java) | August
 193 | 13/08/24 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | Medium | [Java](./August/Combination_Sum_II.java) | August
 194 | 14/08/24 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance) | Hard | [Java](./August/Find_K_th_Smallest_Pair_Distance.java) | August
+195 | 15/08/24 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | Easy | [Java](./August/Lemonade_Change.java) | August
