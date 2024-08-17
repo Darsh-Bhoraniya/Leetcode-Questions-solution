@@ -199,3 +199,4 @@
 194 | 14/08/24 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance) | Hard | [Java](./August/Find_K_th_Smallest_Pair_Distance.java) | August
 195 | 15/08/24 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | Easy | [Java](./August/Lemonade_Change.java) | August
 196 | 16/08/24 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays) | Medium | [Java](./August/Maximum_Distance_in_Arrays.java) | August
+197 | 17/08/24 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost) | Medium | [Java](./August/Maximum_Number_of_Points_with_Cost.java) | August
