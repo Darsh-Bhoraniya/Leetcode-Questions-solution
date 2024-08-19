@@ -201,3 +201,4 @@
 196 | 16/08/24 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays) | Medium | [Java](./August/Maximum_Distance_in_Arrays.java) | August
 197 | 17/08/24 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost) | Medium | [Java](./August/Maximum_Number_of_Points_with_Cost.java) | August
 198 | 18/08/24 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) | Medium | [Java](./August/Ugly_Number_II.java) | August
+199 | 19/08/24 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | Medium | [Java](./August/A2_Keys_Keyboard.java) | August
