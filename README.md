@@ -202,3 +202,4 @@
 197 | 17/08/24 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost) | Medium | [Java](./August/Maximum_Number_of_Points_with_Cost.java) | August
 198 | 18/08/24 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) | Medium | [Java](./August/Ugly_Number_II.java) | August
 199 | 19/08/24 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | Medium | [Java](./August/A2_Keys_Keyboard.java) | August
+200 | 20/08/24 | [Stone_Game_II.java](https://leetcode.com/problems/stone-game-ii) | Medium | [Java](./August/Stone_Game_II.java) | August
