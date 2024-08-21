@@ -203,4 +203,4 @@
 198 | 18/08/24 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) | Medium | [Java](./August/Ugly_Number_II.java) | August
 199 | 19/08/24 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | Medium | [Java](./August/A2_Keys_Keyboard.java) | August
 200 | 20/08/24 | [Stone_Game_II.java](https://leetcode.com/problems/stone-game-ii) | Medium | [Java](./August/Stone_Game_II.java) | August
-201 | 21/08/24 | [Strange Printer](https://leetcode.com/problems/strange-printer) | Hard | [Java](./August.Strange_Printer.java) | August
+201 | 21/08/24 | [Strange Printer](https://leetcode.com/problems/strange-printer) | Hard | [Java](./August/Strange_Printer.java) | August
