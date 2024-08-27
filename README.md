@@ -209,3 +209,4 @@
 204 | 24/08/24 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome) | Hard | [Java](./August/Find_the_Closest_Palindrome.java) | August 
 205 | 25/08/24 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | [Java](./August/Binary_Tree_Postorder_Traversal.java) | August
 206 | 26/08/24 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | [Java](./August/N-ary_Tree_Postorder_Traversal.java) | August
+207  27/08/24 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | Medium | [Java](./August/Path_with_Maximum_Probability.java) | August
