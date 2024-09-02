@@ -215,3 +215,4 @@
 210 | 30/08/24 | [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights) | Hard | [Java](./August/Modify_Graph_Edge_Weights.java) | August
 208 | 31/08/24 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | Medium | [Java](./August/Path_with_Maximum_Probability.java) | August
 209 | 01/09/24 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | Easy | [Java](./Septmber/Convert_1D_Array_Into_2D_Array.java) | Septmber
+210 | 02/09/24 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | Medium | [Java](./Septmber/Find_the_Student_that_Will_Replace_the_Chalk.java) | Septmber
