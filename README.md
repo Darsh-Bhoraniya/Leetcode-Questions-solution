@@ -218,3 +218,4 @@
 210 | 02/09/24 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | Medium | [Java](./Septmber/Find_the_Student_that_Will_Replace_the_Chalk.java) | Septmber
 211 | 03/09/24 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | Easy | [Java](./Septmber/Sum_of_Digits_of_String_After_Convert.java) | Septmber
 212 | 04/09/24 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation) | Medium | [Java](./Septmber/Walking_Robot_Simulation.java) | Septmber
+213 | 05/09/24 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | Medium | [Java](./Septmber/Find_Missing_Observations.java) | Septmber
