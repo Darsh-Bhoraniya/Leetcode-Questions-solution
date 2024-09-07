@@ -220,3 +220,4 @@
 212 | 04/09/24 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation) | Medium | [Java](./Septmber/Walking_Robot_Simulation.java) | Septmber
 213 | 05/09/24 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | Medium | [Java](./Septmber/Find_Missing_Observations.java) | Septmber
 214 | 06/09/24 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) | Medium | [Java](./Septmber/Delete_Nodes_From_Linked_List_Present_in_Array.java) | Septmber
+215 | 07/09/24 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree) | Medium | [Java](./Septmber/Linked_List_in_Binary_Tree.java) | Septmebr
