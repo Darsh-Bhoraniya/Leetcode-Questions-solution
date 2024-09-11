@@ -224,3 +224,4 @@
 216 | 08/09/24 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | Medium | [Java](./Septmber/Split_Linked_List_in_Parts.java) | Septmber
 215 | 09/09/24 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) | Medium | [Java](./Septmber/Spiral_Matrix_IV.java) | Septmber
 216 | 10/09/24 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Medium | [Java](./Septmber/Insert_Greatest_Common_Divisors_in_Linked_List.java) | Septmber
+217 | 11/09/24 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | [Java](./Septmber/Minimum_Bit_Flips_to_Convert_Number.java)
