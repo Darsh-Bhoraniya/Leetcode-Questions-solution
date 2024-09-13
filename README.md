@@ -226,3 +226,4 @@
 216 | 10/09/24 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Medium | [Java](./Septmber/Insert_Greatest_Common_Divisors_in_Linked_List.java) | Septmber
 217 | 11/09/24 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | [Java](./Septmber/Minimum_Bit_Flips_to_Convert_Number.java) | Septmber
 218 | 12/09/24 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | Easy | [Java](./Septmber/Count_the_Number_of_Consistent_Strings.java) | Septmber
+219 | 13/09/24 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | Medium | [Java](./Septmber/XOR_Queries_of_a_Subarray.java) | Septmber
