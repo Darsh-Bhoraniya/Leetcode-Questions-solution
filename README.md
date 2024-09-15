@@ -228,3 +228,4 @@
 218 | 12/09/24 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | Easy | [Java](./Septmber/Count_the_Number_of_Consistent_Strings.java) | Septmber
 219 | 13/09/24 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | Medium | [Java](./Septmber/XOR_Queries_of_a_Subarray.java) | Septmber
 220 | 14/09/24 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) | Medium | [Java](./Septmber/Longest_Subarray_With_Maximum_Bitwise_AND.java) | Septmber 
+221 | 15/09/24 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts) | Medium | [Java](./Septmber/Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.java) | Septmber
