@@ -232,3 +232,4 @@
 222 | 16/09/24 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | Medium | [Java](./Septmber/Minimum_Time_Difference.java) | Septmber
 223 | 17/09/24 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Medium | [Java](./Septmber/Uncommon_Words_from_Two_Sentences.java) | Septmber
 224 | 18/09/24 | [Largest Number](https://leetcode.com/problems/largest-number) | Medium | [Java](./Septmber/Largest_Number.java) | Septmber
+225 | 19/09/24 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium | [Java](./Septmber/Different_Ways_to_Add_Parentheses.java) | Septmber
