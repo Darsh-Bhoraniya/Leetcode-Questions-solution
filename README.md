@@ -233,3 +233,4 @@
 223 | 17/09/24 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Medium | [Java](./Septmber/Uncommon_Words_from_Two_Sentences.java) | Septmber
 224 | 18/09/24 | [Largest Number](https://leetcode.com/problems/largest-number) | Medium | [Java](./Septmber/Largest_Number.java) | Septmber
 225 | 19/09/24 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium | [Java](./Septmber/Different_Ways_to_Add_Parentheses.java) | Septmber
+226 | 20/09/24 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | Hard | [Java](./Septmber/Shortest_Palindrome.java) | Septmber
