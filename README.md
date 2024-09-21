@@ -1,4 +1,4 @@
-# Leetcode-Questions-solution
+  # Leetcode-Questions-solution
 |Sr.| Date | Problem | Difficulty | Solution | Month |   
 |---|---|---------|------------|----------|-------|
 1 | 1/2/24 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) |  Medium | [Java](./February/Divide_Array_Into_Arrays_With_Max_Difference.java)  | February |
@@ -234,3 +234,4 @@
 224 | 18/09/24 | [Largest Number](https://leetcode.com/problems/largest-number) | Medium | [Java](./Septmber/Largest_Number.java) | Septmber
 225 | 19/09/24 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium | [Java](./Septmber/Different_Ways_to_Add_Parentheses.java) | Septmber
 226 | 20/09/24 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | Hard | [Java](./Septmber/Shortest_Palindrome.java) | Septmber
+227 | 21/09/24 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | Medium | [Java](./Septmber/Lexicographical_Numbers.java) | Septmber
