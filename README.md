@@ -235,4 +235,4 @@
 225 | 19/09/24 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium | [Java](./Septmber/Different_Ways_to_Add_Parentheses.java) | Septmber
 226 | 20/09/24 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | Hard | [Java](./Septmber/Shortest_Palindrome.java) | Septmber
 227 | 21/09/24 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | Medium | [Java](./Septmber/Lexicographical_Numbers.java) | Septmber
-228 | 22/09/24 | [K-th Smallest in Lexicographical Order](zhttps://leetcode.com/problems/k-th-smallest-in-lexicographical-order) | Hard | [Java](./Septmber/K-th_Smallest_in_Lexicographical_Order.java)
+228 | 22/09/24 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) | Hard | [Java](./Septmber/K-th_Smallest_in_Lexicographical_Order.java) | Septmber
