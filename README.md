@@ -236,3 +236,4 @@
 226 | 20/09/24 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | Hard | [Java](./Septmber/Shortest_Palindrome.java) | Septmber
 227 | 21/09/24 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | Medium | [Java](./Septmber/Lexicographical_Numbers.java) | Septmber
 228 | 22/09/24 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) | Hard | [Java](./Septmber/K-th_Smallest_in_Lexicographical_Order.java) | Septmber
+229 | 23/09/24 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string) | Medium | [Java](./Septmber/Extra_Characters_in_a_String.java) | Septmber
